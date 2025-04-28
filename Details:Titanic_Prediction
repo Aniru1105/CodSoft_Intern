@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Titanic Survival Prediction Project</title>
+</head>
+<body>
+
+<h1>🚢 Titanic Survival Prediction Project</h1>
+
+<h2>📋 Project Overview</h2>
+<p>This project focuses on predicting the survival of passengers aboard the Titanic. Using the Titanic dataset, I built a complete end-to-end data science solution that includes:</p>
+<ul>
+    <li><strong>Python (Jupyter Notebook)</strong> for data analysis, preprocessing, and machine learning.</li>
+    <li><strong>Power BI Dashboard</strong> for interactive visual exploration.</li>
+    <li><strong>Machine Learning Model</strong> to predict survival outcomes.</li>
+</ul>
+
+<hr>
+
+<h2>🛠️ What I've Done</h2>
+
+<h3>1. Data Analysis and Preprocessing</h3>
+<ul>
+    <li>Loaded and cleaned the dataset using <strong>pandas</strong>.</li>
+    <li>Performed <strong>feature engineering</strong> (e.g., extracted titles from names, created family size feature).</li>
+    <li>Handled missing values appropriately.</li>
+    <li>Used <strong>EDA</strong> (Exploratory Data Analysis) to understand important survival factors like gender, class, fare, and age.</li>
+</ul>
+
+<h3>2. Power BI Dashboard</h3>
+<ul>
+    <li>Designed an <strong>interactive dashboard</strong> in <strong>Power BI Desktop</strong>.</li>
+    <li>Visualized survival rates based on gender, passenger class, age groups, and fare ranges.</li>
+    <li>Made it easier to spot patterns and factors influencing survival through dynamic charts and slicers.</li>
+</ul>
+
+<h3>3. Machine Learning Model</h3>
+<ul>
+    <li>Built and trained machine learning models using <strong>scikit-learn</strong>:
+        <ul>
+            <li><strong>Logistic Regression</strong> (baseline model)</li>
+            <li><strong>Random Forest Classifier</strong> (final model after hyperparameter tuning)</li>
+        </ul>
+    </li>
+    <li>Evaluated models using accuracy, precision, recall, and F1-score.</li>
+    <li>Achieved strong predictive performance on test data.</li>
+</ul>
+
+<hr>
+
+<h2>🗂️ Project Structure</h2>
+
+<pre>
+📁 Titanic_Survival_Prediction/
+├── README.md               # Project Overview (this file)
+├── titanic_analysis_and_model.ipynb  # Jupyter Notebook (Python code)
+├── power_bi_dashboard.pbix  # Power BI Dashboard
+├── dataset/
+│   └── train.csv            # Titanic Dataset
+└── outputs/
+    └── model.pkl            # Saved Machine Learning Model
+</pre>
+
+<hr>
+
+<h2>📌 How to Explore the Project</h2>
+
+<h3>Run the Python Notebook</h3>
+<ol>
+    <li>Install dependencies:
+        <pre><code>pip install pandas numpy scikit-learn matplotlib seaborn</code></pre>
+    </li>
+    <li>Open the <code>titanic_analysis_and_model.ipynb</code> file in <strong>Jupyter Notebook</strong>.</li>
+    <li>Run all cells to view data cleaning, exploration, and model building steps.</li>
+</ol>
+
+<h3>View the Power BI Dashboard</h3>
+<ol>
+    <li>Open <code>power_bi_dashboard.pbix</code> using <strong>Power BI Desktop</strong>.</li>
+    <li>Explore interactive charts and insights.</li>
+</ol>
+
+<hr>
+
+<h2>🛠️ Tools & Technologies</h2>
+<ul>
+    <li>Python</li>
+    <li>Jupyter Notebook</li>
+    <li>Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn</li>
+    <li>Power BI</li>
+    <li>Machine Learning (Logistic Regression, Random Forest)</li>
+</ul>
+
+<hr>
+
+<h2>📈 Conclusion</h2>
+<p>Through this project, I demonstrated a complete Data Science workflow:</p>
+<ul>
+    <li>From <strong>data cleaning and visualization</strong>,</li>
+    <li>To <strong>machine learning model building</strong>,</li>
+    <li>And delivering insights through an <strong>interactive dashboard</strong>.</li>
+</ul>
+<p>This project shows how data storytelling and predictive analytics can be combined to solve real-world problems.</p>
+
+</body>
+</html>

@@ -1,0 +1,43 @@
+# 🚢 Titanic Survival Prediction Project
+
+## 📋 Project Overview
+This project focuses on predicting the survival of passengers aboard the Titanic. Using the Titanic dataset, I built a complete end-to-end data science solution that includes:
+
+- **Python (Jupyter Notebook)** for data analysis, preprocessing, and machine learning.
+- **Power BI Dashboard** for interactive visual exploration.
+- **Machine Learning Model** to predict survival outcomes.
+
+---
+
+## 🛠️ What I've Done
+
+### 1. Data Analysis and Preprocessing
+- Loaded and cleaned the dataset using **pandas**.
+- Performed **feature engineering** (e.g., extracted titles from names, created family size feature).
+- Handled missing values appropriately.
+- Used **EDA** (Exploratory Data Analysis) to understand important survival factors like gender, class, fare, and age.
+
+### 2. Power BI Dashboard
+- Designed an **interactive dashboard** in **Power BI Desktop**.
+- Visualized survival rates based on:
+  - Gender
+  - Passenger Class
+  - Age Groups
+  - Fare Ranges
+- Made it easier to spot patterns and factors influencing survival through dynamic charts and slicers.
+
+### 3. Machine Learning Model
+- Built and trained machine learning models using **scikit-learn**:
+  - **Logistic Regression** (baseline model)
+  - **Random Forest Classifier** (final model after hyperparameter tuning)
+- Evaluated models using:
+  - Accuracy
+  - Precision
+  - Recall
+  - F1-Score
+- Achieved strong predictive performance on test data.
+
+---
+
+## 🗂️ Project Structure
+

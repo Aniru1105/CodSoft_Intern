@@ -24,6 +24,7 @@ The internship focused on strengthening skills in **data cleaning, exploratory d
 - **Power BI** (Dashboards & Reports)
 - **Data Visualization and Storytelling**
 - **Exploratory Data Analysis (EDA)**
+- **Mechine Learning**
 
 ---
 

@@ -40,4 +40,17 @@ This project focuses on predicting the survival of passengers aboard the Titanic
 ---
 
 ## 🗂️ Project Structure
+# 📁 Project Structure: Titanic Survival Prediction
+
+| Type | Name | Description |
+|:----|:-----|:------------|
+| 📁 | Titanic_Survival_Prediction | Main project folder |
+| 📄 | Details:Titanic_Prediction.md | Project details and overview (this file) |
+| 📄 | titanic_analysis_and_model.ipynb | Jupyter Notebook with Python code and Machine Learning model |
+| 📄 | titanic_pridiction.pbix | Power BI Dashboard file |
+| 📁 | dataset/ | Folder containing dataset files |
+| 📄 | dataset/train.csv | Titanic dataset file |
+| 📁 | outputs/ | Folder containing output snippets |
+| 📄 | outputs/Snippets | Saved snippets and visual outputs |
+
 

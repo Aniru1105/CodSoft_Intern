@@ -42,14 +42,12 @@ This project focuses on predicting the survival of passengers aboard the Titanic
 ## 🗂️ Project Structure
 # 📁 Project Structure: Titanic Survival Prediction
 
-| Type | Name | Description |
-|:----|:-----|:------------|
-| 📁 | Titanic_Survival_Prediction | Main project folder |
-| 📄 | Details:Titanic_Prediction.md | Project details and overview (this file) |
-| 📄 | titanic_analysis_and_model.ipynb | Jupyter Notebook with Python code and Machine Learning model |
-| 📄 | titanic_pridiction.pbix | Power BI Dashboard file |
-| 📁 | dataset/ | Folder containing dataset files |
-| 📄 | dataset/train.csv | Titanic dataset file |
+| Type | Name | Description |link | 
+|:----|:-----|:------------|:--------------------|
+| 📄 | Details:Titanic_Prediction.md | Project details and overview (this file) |[Titanic_Prediction.md](https://github.com/Aniru1105/CodSoft_Intern/blob/Titanic_Prediction/Details%3ATitanic_Prediction.md)|
+| 📄 | titanic_analysis_and_model.ipynb | Jupyter Notebook with Python code and Machine Learning model |[ titanic_analysis_and_model.ipynb](https://github.com/Aniru1105/CodSoft_Intern/blob/Titanic_Prediction/Titanic_model_prediction.ipynb)|
+| 📄 | titanic_pridiction.pbix | Power BI Dashboard file |[titanic_pridiction.pbix](https://github.com/Aniru1105/CodSoft_Intern/blob/Titanic_Prediction/Titanic%20Predction%20Dashboard.pbix)|
+| 📄 | dataset/train.csv | Titanic dataset file |[MAIN DATASET](https://github.com/Aniru1105/CodSoft_Intern/blob/Titanic_Prediction/Titanic-Dataset.csv) ;[Deceased-Dataset](https://github.com/Aniru1105/CodSoft_Intern/blob/Titanic_Prediction/Deceased-Dataset.csv) ; [Survived-Dataset](https://github.com/Aniru1105/CodSoft_Intern/edit/Titanic_Prediction/Survived-Dataset.csv#L11C38)
 | 📁 | outputs/ | Folder containing output snippets |
 | 📄 | outputs/Snippets | Saved snippets and visual outputs |
 

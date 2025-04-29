@@ -36,7 +36,8 @@ The internship focused on strengthening skills in **data cleaning, exploratory d
 | * | [Add Your Future Tasks Here] | [Short Description] |[Branch]|
 
 ---
-
+## TO ACCESS PROJECT {TITANTIC_PREDICTION} PLEASE READ THE FILE
+[Details:Titanic_Prediction.md](https://github.com/Aniru1105/CodSoft_Intern/blob/Titanic_Prediction/Details%3ATitanic_Prediction.md)
 ## 📈 Highlights
 - Designed dynamic and interactive dashboards.
 - Identified key metrics that drive business performance.

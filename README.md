@@ -32,7 +32,7 @@ The internship focused on strengthening skills in **data cleaning, exploratory d
 
 | Task No. | Project Name | Description | SUB BRANCH |
 |:---|:---|:---|:---|
-| 1 | Titanic_Prediction_model | Performed EDA on titanic datasetsWhile creating a predictive model for that . | BRANCH 01|
+| 1 | Titanic_Prediction_model | Performed EDA on titanic datasetsWhile creating a predictive model for that . | [BRANCH 01](https://github.com/Aniru1105/CodSoft_Intern/tree/Titanic_Prediction)|
 | * | [Add Your Future Tasks Here] | [Short Description] |[Branch]|
 
 ---

@@ -48,7 +48,6 @@ This project focuses on predicting the survival of passengers aboard the Titanic
 | 📄 | titanic_analysis_and_model.ipynb | Jupyter Notebook with Python code and Machine Learning model |[ titanic_analysis_and_model.ipynb](https://github.com/Aniru1105/CodSoft_Intern/blob/Titanic_Prediction/Titanic_model_prediction.ipynb)|
 | 📄 | titanic_pridiction.pbix | Power BI Dashboard file |[titanic_pridiction.pbix](https://github.com/Aniru1105/CodSoft_Intern/blob/Titanic_Prediction/Titanic%20Predction%20Dashboard.pbix)|
 | 📄 | dataset/train.csv | Titanic dataset file |[MAIN DATASET](https://github.com/Aniru1105/CodSoft_Intern/blob/Titanic_Prediction/Titanic-Dataset.csv) ;[Deceased-Dataset](https://github.com/Aniru1105/CodSoft_Intern/blob/Titanic_Prediction/Deceased-Dataset.csv) ; [Survived-Dataset](https://github.com/Aniru1105/CodSoft_Intern/edit/Titanic_Prediction/Survived-Dataset.csv#L11C38)
-| 📁 | outputs/ | Folder containing output snippets |
-| 📄 | outputs/Snippets | Saved snippets and visual outputs |
+| 📄 | outputs/Snippets | Saved snippets and visual outputs |[Dashboard Snippet](https://github.com/Aniru1105/CodSoft_Intern/blob/Titanic_Prediction/Screenshot%202025-04-29%20175405.png);[2nd Dashboard Snippet](https://github.com/Aniru1105/CodSoft_Intern/blob/Titanic_Prediction/Screenshot%202025-04-29%20175444.png);[3rd Dashboard Snippet](https://github.com/Aniru1105/CodSoft_Intern/blob/Titanic_Prediction/Screenshot%202025-04-29%20175522.png)|
 
 

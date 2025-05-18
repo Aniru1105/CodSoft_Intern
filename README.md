@@ -2,6 +2,9 @@
 **This Project Repository holds the Projects For the Internship**
 # CodSoft Data Analytics Internship (April Batch B23)
 
+####  *TO ACCESS PROJECT {MOVIE_PREDICTION} PLEASE READ THE FILE*
+[Details:Movie_Prediction.md](https://github.com/Aniru1105/CodSoft_Intern/blob/Movie_Prediction/Details_Movie_Prediction.md)
+
 ## 📢 Overview
 This repository contains the projects and tasks completed as part of my **Data Analytics Internship** at **CodSoft** during April 2025.
 

@@ -2,6 +2,9 @@
 **This Project Repository holds the Projects For the Internship**
 # CodSoft Data Analytics Internship (April Batch B23)
 
+####  *TO ACCESS PROJECT {TITANTIC_PREDICTION} PLEASE READ THE FILE*
+[Details:Titanic_Prediction.md](https://github.com/Aniru1105/CodSoft_Intern/blob/Titanic_Prediction/Details%3ATitanic_Prediction.md)
+
 ## 📢 Overview
 This repository contains the projects and tasks completed as part of my **Data Analytics Internship** at **CodSoft** during April 2025.
 
@@ -36,8 +39,7 @@ The internship focused on strengthening skills in **data cleaning, exploratory d
 | * | [Add Your Future Tasks Here] | [Short Description] |[Branch]|
 
 ---
-## TO ACCESS PROJECT {TITANTIC_PREDICTION} PLEASE READ THE FILE
-[Details:Titanic_Prediction.md](https://github.com/Aniru1105/CodSoft_Intern/blob/Titanic_Prediction/Details%3ATitanic_Prediction.md)
+
 ## 📈 Highlights
 - Designed dynamic and interactive dashboards.
 - Identified key metrics that drive business performance.
